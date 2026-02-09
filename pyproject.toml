@@ -10,6 +10,7 @@ dependencies = [
     "lxml>=6.0.2",
     "markdown>=3.9",
     "markdown-it-py>=4.0.0",
+    "markitdown[pdf]>=0.1.4",
     "minsearch>=0.0.7",
     "openai>=2.3.0",
     "openai-agents>=0.4.2",
